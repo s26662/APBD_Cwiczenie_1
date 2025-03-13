@@ -12,7 +12,7 @@
     }
     
     //Zadanie 3
-    public static double averege(int[] numbers)
+    public static double averegeNumber(int[] numbers)
     {
         if (numbers == null || numbers.Length == 0) return 0;
         return numbers.Average();
